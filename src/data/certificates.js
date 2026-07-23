@@ -5,7 +5,7 @@ export const certificates = [
     issuer: "Udemy",
     date: "2025",
     image:
-      "https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=900&auto=format&fit=crop",
+      "https://res.cloudinary.com/clsfdm19/image/upload/v1784805725/DSTP_Certificate__2WTXXKCMK_page-0001_nprwwe.jpg",
   },
   {
     id: "c2",
@@ -36,6 +36,14 @@ export const certificates = [
     title: "Introduction to Databases (MySQL)",
     issuer: "Coursera",
     date: "2025",
+    image:
+      "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?q=80&w=900&auto=format&fit=crop",
+  },
+  {
+    id: "c6",
+    title: "C++ Essentials 1",
+    issuer: "Cisco Networking Academy",
+    date: "1st July 2026",
     image:
       "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?q=80&w=900&auto=format&fit=crop",
   },
