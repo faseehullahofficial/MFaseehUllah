@@ -128,7 +128,7 @@ export default function Hero() {
             transition={{ duration: 8, repeat: Infinity, ease: "easeInOut" }}
           >
             <img
-              src="https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?q=80&w=800&auto=format&fit=crop"
+              src="https://res.cloudinary.com/clsfdm19/image/upload/v1784786792/Faseeh_DP_nnfmhj.png"
               alt="Portrait of Muhammad Faseeh Ullah"
               className="h-full w-full object-cover"
             />
