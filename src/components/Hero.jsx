@@ -84,7 +84,7 @@ export default function Hero() {
             I build clean, responsive interfaces with React and modern
             JavaScript — currently studying Computer Science at Virtual
             University of Pakistan and learning in public, one project at a
-            time.
+            time. Updated..Check
           </motion.p>
 
           <motion.div
